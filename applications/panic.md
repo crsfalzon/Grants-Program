@@ -174,6 +174,11 @@ This grant request consists of a single milestone with the aim of expanding the 
 #### Table 3
 | Number | Deliverable | Specification |
 | -----: | ----------- | ------------- |
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | Update of design and setup documentation present on our repository. |
+| 0c. | Testing Guide | Backend functions will be covered by unit tests. Frontend components will go through unit and end-to-end testing. When deliverables 1 - 7 are implemented and tested, a release candidate will be provided to our staking team for UAT. |
+| 0d. | Docker | Our systems run on Docker. We will make available Dockerfiles to make the running and testing of the product possible. |
+| 0e. | Article | Delivery of a Medium article on the need fulfilled by PANIC, together with a high-level description of the product and what’s coming next. |
 | 0. | Research | Research about the metrics and data sources |
 | 1. | Monitors | Develop Substrate monitors |
 | 2. | Data Transformers | Develop Substrate data transformers |
